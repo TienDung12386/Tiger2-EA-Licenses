@@ -16,3 +16,9 @@ dbbc18150248e588f2c1314d7fd23611 | 2030.12.31
 
 // Khách hàng Pham Hong Khanh - Thue het nam 2030
 7caa559f28719c674d40e1a29bb4cfc6 | 2030.12.31
+// Khách hàng NINHKU - Test den 11.4.26
+0719bd41920fce6ee5a44d4dc612f021 | 2026.04.11
+// Khách hàng KOBASUC - Test den 11.4.26
+6aa452c55f4eb286b66a5f7f5bd772e3 | 2026.04.11
+// Khách hàng NGUYỄN TÂM - Test den 11.4.26
+57d392b841ecc4038586d7a6269b9466 | 2026.04.11
