@@ -14,6 +14,9 @@ dbbc18150248e588f2c1314d7fd23611 | 2030.12.31
 0932d8418cbd00ed50e45a797e8a15d9 | 2030.12.31 
 2bd41a79ddc7cad6f0841ca23ee88d6c | 2030.12.31
 
+// Khách hàng Nguyễn Tài Ninh - Thue het nam 2030
+5bd74b2e9159053acb81bfe199e65ef8 | 2030.12.31
+
 // Khách hàng Pham Hong Khanh - Thue het nam 2030
 7caa559f28719c674d40e1a29bb4cfc6 | 2030.12.31
 // Khách hàng NINHKU - Test den 11.4.26
