@@ -25,6 +25,10 @@ dbbc18150248e588f2c1314d7fd23611 | 2030.12.31
 a62988f24312a4e56085faf1a75e3660 | 2030.12.31 
 24fc40499f62a4db6c994a69c553adce | 2030.12.31 
 
+
+// Khách hàng Chiến BN - Thue het nam 2030
+cfb490a57ef251de871deee0e7a1a5b2 | 2030.12.31
+
 // Khách hàng Nguyễn Tài Ninh - Thue het nam 2030
 5bd74b2e9159053acb81bfe199e65ef8 | 2030.12.31
 
