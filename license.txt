@@ -43,6 +43,9 @@ d78f86300bee199427678bb7fd553df2 | 2030.12.31
 // Khách hàng Thùy Lê-KVB - Thue het nam 2030
 fab4f30ed0d5a3d245428efe8036c863 | 2030.12.31
 
+// Khách hàng Đinh Hằng-Exness - Thue het nam 2031
+a08f224c1a5a09e694b1149c7c99fcf0 | 2030.12.31
+
 // Khách hàng Cù Mạnh Cường - Thue het nam 2030
 1007c644181864fc510bfda894ae777a | 2030.12.31
 
