@@ -43,6 +43,8 @@ d78f86300bee199427678bb7fd553df2 | 2030.12.31
 
 // Khách hàng Doan Ngoc Duc - Thue het nam 2030
 0e262537701173991f67da4f4edbc934 | 2030.12.31
+// Khách hàng Kim Phung- KVB- Thue het nam 2030
+e292e963a872bbf48f10ae7a228d2827 | 2030.12.31
 
 // Khách hàng Khanh Ha (Exness) - Thue het nam 2030
 f87e6c921c3fa4936d98c8d395d61cec | 2030.12.31
